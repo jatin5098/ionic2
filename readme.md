@@ -13,3 +13,9 @@
 # Generate a new page
 1. Create a new page: ionic generate page new-place
 2. Register the page in `app.module`
+
+# Start  IONIC app
+1. ionic serve
+
+# Storage for persistent value 
+  Stores value in indexeddb, websql, sqllite
