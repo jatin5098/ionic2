@@ -17,5 +17,13 @@
 # Start  IONIC app
 1. ionic serve
 
+# Create a new page/modal
+1. ionic generate page
+
 # Storage for persistent value 
   Stores value in indexeddb, websql, sqllite
+
+# Google Maps
+https://angular-maps.com/
+
+npm install --save angular2-google-maps
